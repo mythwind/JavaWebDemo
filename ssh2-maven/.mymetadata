@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ssh2-maven"
+  id="myeclipse.1451436830837"
+  context-root="/ssh2-maven"
+  j2ee-spec="5.0"
+  archive="ssh2-maven.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
